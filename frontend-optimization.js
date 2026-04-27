@@ -1,6 +1,7 @@
 /**
  * WordPress Frontend & UX Optimization Tools
  * Includes: Tablet detector, Broken image handler, and Dynamic CID URL updates.
+ * Advanced jQuery suite for WordPress. Fixes Astra theme layout bugs on tablets, implements broken image fallbacks, and handles dynamic URL parameter injection for WooCommerce categories without page reloads.
  */
 
 (function($) {
